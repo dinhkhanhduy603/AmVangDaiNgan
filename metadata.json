@@ -1,0 +1,6 @@
+{
+  "name": "Từ Điển Hình Ảnh Số Tiếng Ê-đê",
+  "description": "Từ điển hình ảnh số song ngữ Ê-đê - Việt kèm bản ghi âm phát âm trực quan, phục vụ học tập, tra cứu và bảo tồn văn hóa ngôn ngữ bản địa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
