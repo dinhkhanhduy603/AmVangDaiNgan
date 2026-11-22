@@ -4,9 +4,9 @@ import { GraduationCap, Heart, BookOpen } from 'lucide-react';
 export const AboutScreen: React.FC = () => {
   const edeAlphabet = [
     { char: 'č', ipa: '/tʃ/', desc: 'Tương đương âm "ch" trong tiếng Việt nhưng bật hơi nhẹ (VD: Čing - Cồng chiêng).' },
-    { char: 'ñ', ipa: '/ɲ/', desc: 'Tương đương âm "nh" trong tiếng Việt (VD: Mñê - Gạo, Ñu - Nó/Họ).' },
+    { char: 'ñ', ipa: '/ɲ/', desc: 'Tương đương âm "nh" trong tiếng Việt (VD: Ñu - Nó/Họ, Mñai - Dầu/Mỡ, Kñi - Vàng).' },
     { char: 'ĭ / ŭ', ipa: '/i/ /u/', desc: 'Nguyên âm ngắn có dấu trăng trên đầu, phát âm dứt khoát.' },
-    { char: 'ĕ / ŏ', ipa: '/e/ /o/', desc: 'Nguyên âm ngắn (VD: Hơgơr - Trống, Hơbĭt - Đánh/Tấu chiêng).' },
+    { char: 'ĕ / ŏ', ipa: '/e/ /o/', desc: 'Nguyên âm ngắn (VD: Prŏng - To/Lớn, Kŏ - Trắng, Hĕ - Phải không).' },
     { char: 'dj', ipa: '/ɗʒ/', desc: 'Âm tắc - xát hữu thanh ngạc cứng đặc trưng ngôn ngữ Nam Đảo (Austronesian).' },
   ];
 

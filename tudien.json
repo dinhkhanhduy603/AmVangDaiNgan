@@ -25,7 +25,7 @@
     "ten_nguoi_doc_ban_ghi": "Y Mip Knul (Nghệ nhân cồng chiêng huyện Cư M'gar)",
     "nguon_tu_lieu": "Không gian văn hóa Cồng chiêng Tây Nguyên, Viện Văn hóa Nghệ thuật Quốc gia",
     "chu_de": "Văn hóa & Âm nhạc",
-    "vi_du_ngu_canh": "Hơbĭt čing hlăm yang - Đánh cồng chiêng trong lễ hội tạ ơn thần linh."
+    "vi_du_ngu_canh": "Tông čing hlăm yang - Đánh cồng chiêng trong lễ hội tạ ơn thần linh."
   },
   {
     "id": "ede_003",
@@ -39,7 +39,7 @@
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Ngữ pháp và Từ vựng tiếng Ê-đê, Viện Ngôn ngữ học Việt Nam",
     "chu_de": "Thiên nhiên & Môi trường",
-    "vi_du_ngu_canh": "Êa krông pral lăn - Nước sông chảy xiết qua thung lũng."
+    "vi_du_ngu_canh": "Amĭ nao mă êa ti pin êa - Mẹ đi lấy nước ở bến nước."
   },
   {
     "id": "ede_004",
@@ -47,13 +47,13 @@
     "tu_tieng_viet": "Cơm",
     "tu_tieng_ede": "Êsei",
     "phien_am": "/eː.səi/",
-    "duong_dan_hinh_anh": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=1000&q=80",
+    "duong_dan_hinh_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FHHs7QmoUIAbtm-c4lTv_zLetRMfa0fd-wJo-9hJ3Q&s=10",
     "chu_thich_hinh_anh": "Mâm cơm gạo rẫy thơm ngon nấu trong ống nứa truyền thống của người Ê-đê.",
     "duong_dan_tep_am_thanh": "/audio/esei.mp3",
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Giáo trình tiếng Ê-đê cơ sở, Trường Cao đẳng Sư phạm Đắk Lắk",
     "chu_de": "Ẩm thực & Đời sống",
-    "vi_du_ngu_canh": "Hơngiê huôč huă êsei - Cả gia đình cùng quây quần ăn bữa cơm tối."
+    "vi_du_ngu_canh": "Gŏ sang huă êsei mbĭt - Gia đình cùng nhau ăn cơm."
   },
   {
     "id": "ede_005",
@@ -67,7 +67,7 @@
     "ten_nguoi_doc_ban_ghi": "Y Mip Knul (Nghệ nhân cồng chiêng huyện Cư M'gar)",
     "nguon_tu_lieu": "Hiện vật trưng bày và tư liệu thuyết minh Bảo tàng Đắk Lắk",
     "chu_de": "Văn hóa & Âm nhạc",
-    "vi_du_ngu_canh": "Đôč ti kpan hơbĭt čing - Ngồi trên ghế Kpan tấu cồng chiêng đón khách quý."
+    "vi_du_ngu_canh": "Đôč ti kpan tông čing - Ngồi trên ghế Kpan tấu cồng chiêng đón khách quý."
   },
   {
     "id": "ede_006",
@@ -81,7 +81,7 @@
     "ten_nguoi_doc_ban_ghi": "Y Bhiôn Niê (Nghệ nhân Buôn Ma Thuột)",
     "nguon_tu_lieu": "Nhạc cụ cổ truyền các dân tộc bản địa Đắk Lắk, Hội VHNT Đắk Lắk",
     "chu_de": "Văn hóa & Âm nhạc",
-    "vi_du_ngu_canh": "Kơdră hơbĭt hgơr - Già làng gióng từng hồi trống khai hội buôn làng."
+    "vi_du_ngu_canh": "Kơdră tông hgơr - Già làng gióng từng hồi trống khai hội buôn làng."
   },
   {
     "id": "ede_007",
@@ -109,7 +109,7 @@
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Tự điển song ngữ Ê-đê - Việt, Ban Dân tộc tỉnh Đắk Lắk",
     "chu_de": "Cây cối & Nông nghiệp",
-    "vi_du_ngu_canh": "Boh mtei kman mơhưng - Trái chuối chín thơm ngọt ngào ven rẫy."
+    "vi_du_ngu_canh": "Boh mtei ksa mmih - Quả chuối chín ngọt."
   },
   {
     "id": "ede_009",
@@ -121,7 +121,7 @@
     "chu_thich_hinh_anh": "Đàn bò thong dong gặm cỏ trên sườn đồi đỏ bazan Tây Nguyên.",
     "duong_dan_tep_am_thanh": "/audio/emo.mp3",
     "ten_nguoi_doc_ban_ghi": "Y Bhiôn Niê (Nghệ nhân Buôn Ma Thuột)",
-    "nguon_tu_lieu": "Từ điển Ê-đê - Việt phổ thông, TS. Y-Trương Niê Siê (2008)",
+    "nguon_tu_lieu": "Từ điển Êđê - Việt, Viện Ngôn ngữ học & NXB Khoa học Xã hội",
     "chu_de": "Muông thú & Chăn nuôi",
     "vi_du_ngu_canh": "Êmô huă rơk ti čư - Đàn bò gặm cỏ tươi tốt trên chân núi."
   },
@@ -131,8 +131,8 @@
     "tu_tieng_viet": "Mẹ",
     "tu_tieng_ede": "Amĭ",
     "phien_am": "/aː.miʔ/",
-    "duong_dan_hinh_anh": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
-    "chu_thich_hinh_anh": "Hình tượng người mẹ Ê-đê trong nếp nhà dài - trụ cột của gia đình mẫu hệ.",
+    "duong_dan_hinh_anh": "https://vnn.1cdn.vn/2026/09/09/h-len-nie-gia-gao-ben-khung-cua-nha-dai-o-ako-dhong..jpg",
+    "chu_thich_hinh_anh": "Chân dung người mẹ Ê-đê.",
     "duong_dan_tep_am_thanh": "/audio/ami.mp3",
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Chế độ Mẫu hệ người Ê-đê, Viện Dân tộc học & NXB Khoa học Xã hội",
@@ -145,13 +145,13 @@
     "tu_tieng_viet": "Cha / Bố",
     "tu_tieng_ede": "Ama",
     "phien_am": "/aː.maː/",
-    "duong_dan_hinh_anh": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1000&q=80",
-    "chu_thich_hinh_anh": "Chân dung người đàn ông Ê-đê làm rẫy cần mẫn tại buôn Kuô M'gar.",
+    "duong_dan_hinh_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjYN69Ga11YcfhC4einUXpH9-vBozTOPqf7VW97e7DA&s=10",
+    "chu_thich_hinh_anh": "Chân dung người đàn ông Ê-đê.",
     "duong_dan_tep_am_thanh": "/audio/ama.mp3",
     "ten_nguoi_doc_ban_ghi": "Y Bhiôn Niê (Nghệ nhân Buôn Ma Thuột)",
-    "nguon_tu_lieu": "Từ điển Ê-đê - Việt phổ thông, TS. Y-Trương Niê Siê (2008)",
+    "nguon_tu_lieu": "Từ điển Êđê - Việt, Viện Ngôn ngữ học & NXB Khoa học Xã hội",
     "chu_de": "Gia đình & Xã hội",
-    "vi_du_ngu_canh": "Ama nao mir mnia - Cha lên nương rẫy từ lúc bình minh."
+    "vi_du_ngu_canh": "Ama nao hma aguah - Cha đi lên rẫy vào buổi sáng."
   },
   {
     "id": "ede_012",
@@ -159,8 +159,8 @@
     "tu_tieng_viet": "Em (Em gái / Em trai)",
     "tu_tieng_ede": "Adei",
     "phien_am": "/aː.dəi/",
-    "duong_dan_hinh_anh": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1000&q=80",
-    "chu_thich_hinh_anh": "Nụ cười hồn nhiên của trẻ em Ê-đê vui chơi bên thềm cầu thang cái nhà dài.",
+    "duong_dan_hinh_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRsPwHwS1p0Wtecnl1ZtHeVKo0bcAhYffrOJ9TcCy-w&s=10",
+    "chu_thich_hinh_anh": "Nụ cười hồn nhiên của trẻ em Ê-đê.",
     "duong_dan_tep_am_thanh": "/audio/adei.mp3",
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Từ điển Việt - Êđê, Sở Giáo dục và Đào tạo tỉnh Đắk Lắk",
@@ -179,7 +179,7 @@
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Từ điển Việt - Êđê, Sở Giáo dục và Đào tạo tỉnh Đắk Lắk",
     "chu_de": "Ẩm thực & Đời sống",
-    "vi_du_ngu_canh": "Braih ba nao pruê êsei - Đem gạo rẫy nấu nồi cơm thơm dẻo."
+    "vi_du_ngu_canh": "Braih ba nao tŭk êsei - Đem gạo đi nấu cơm."
   },
   {
     "id": "ede_014",
@@ -201,8 +201,8 @@
     "tu_tieng_viet": "Cội nguồn / Gốc cây / Mẹ",
     "tu_tieng_ede": "Ana",
     "phien_am": "/aː.naː/",
-    "duong_dan_hinh_anh": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=1000&q=80",
-    "chu_thich_hinh_anh": "Cây Kơ-nia cổ thụ sừng sững giữa buôn làng tượng trưng cho cội nguồn sự sống trường tồn.",
+    "duong_dan_hinh_anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lpKCFQiSLKx5-6zQxKUMJFNcyhcCJfxF1aK3aAFf5w&s=10",
+    "chu_thich_hinh_anh": "Cây Kơ-nia.",
     "duong_dan_tep_am_thanh": "/audio/ana.mp3",
     "ten_nguoi_doc_ban_ghi": "H'Lâm Êban (Giáo viên ngữ văn trường Phổ thông Dân tộc Nội trú Đắk Lắk)",
     "nguon_tu_lieu": "Chế độ Mẫu hệ người Ê-đê, Viện Dân tộc học",
