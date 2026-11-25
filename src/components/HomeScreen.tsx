@@ -62,7 +62,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
             </div>
             <div className="flex items-center space-x-1.5 bg-black/30 px-3 py-1.5 rounded-lg border border-amber-900/60">
               <Volume2 className="w-4 h-4 text-amber-400" />
-              <span>100% Kèm bản ghi âm</span>
+              <span>Hỗ trợ phát âm tự động (TTS)</span>
             </div>
             <div className="flex items-center space-x-1.5 bg-black/30 px-3 py-1.5 rounded-lg border border-amber-900/60">
               <UserCheck className="w-4 h-4 text-amber-400" />
@@ -284,7 +284,10 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
                     <div className="pt-2 border-t border-stone-100 space-y-1 text-[11px] text-stone-500">
                       <div className="flex items-center justify-between truncate">
                         <span className="text-stone-400">Giọng đọc:</span>
-                        <span className="font-medium text-stone-700 truncate max-w-[170px]">
+                        <span
+                          className="font-medium text-stone-700 truncate max-w-[170px]"
+                          title={item.ten_nguoi_doc_ban_ghi || 'Chưa định danh'}
+                        >
                           {item.ten_nguoi_doc_ban_ghi || 'Chưa định danh'}
                         </span>
                       </div>

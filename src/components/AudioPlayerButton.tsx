@@ -97,7 +97,7 @@ export const AudioPlayerButton: React.FC<AudioPlayerButtonProps> = ({
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 p-3.5 sm:p-4 bg-stone-100 rounded-2xl border border-stone-200 shadow-xs">
         <button
           onClick={handlePlay}
-          aria-label={`Nghe phát âm chuẩn: ${word}`}
+          aria-label={audioBase64 ? `Nghe bản ghi âm: ${word}` : `Hỗ trợ phát âm tự động (TTS): ${word}`}
           className={`flex items-center justify-center space-x-2.5 px-6 py-3.5 rounded-xl font-semibold text-sm sm:text-base shadow-xs transition-all cursor-pointer ${
             isPlaying
               ? 'bg-red-700 text-white ring-4 ring-red-200 animate-pulse'
@@ -109,7 +109,7 @@ export const AudioPlayerButton: React.FC<AudioPlayerButtonProps> = ({
           {isLoading ? (
             <>
               <RefreshCw className="w-5 h-5 text-amber-200 animate-spin" />
-              <span>Đang tải âm thanh giọng đọc...</span>
+              <span>Đang tải âm thanh...</span>
             </>
           ) : isPlaying ? (
             <>
@@ -119,7 +119,7 @@ export const AudioPlayerButton: React.FC<AudioPlayerButtonProps> = ({
           ) : (
             <>
               <Volume2 className="w-5 h-5 text-amber-300" />
-              <span>Nghe phát âm chuẩn bản địa</span>
+              <span>{audioBase64 ? 'Nghe bản ghi âm' : 'Hỗ trợ phát âm tự động (TTS)'}</span>
             </>
           )}
         </button>
@@ -142,7 +142,7 @@ export const AudioPlayerButton: React.FC<AudioPlayerButtonProps> = ({
           ) : (
             <div className="text-xs text-amber-900 bg-amber-50 px-2.5 py-1.5 rounded-lg border border-amber-200 flex items-center gap-1">
               <Sparkles className="w-3 h-3 text-amber-600" />
-              <span>Phát âm AI Studio chuẩn hóa</span>
+              <span>Phát âm tự động (TTS)</span>
             </div>
           )}
         </div>

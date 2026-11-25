@@ -156,7 +156,7 @@ export const WordDetailScreen: React.FC<WordDetailScreenProps> = ({
           {/* Audio Player Section */}
           <div className="space-y-2">
             <h3 className="text-xs font-bold text-stone-600 uppercase tracking-wider">
-              Phát Âm Chuẩn Tiếng Bản Địa:
+              {word.audio_data_base64 ? 'Bản Ghi Âm Đóng Góp:' : 'Hỗ Trợ Phát Âm Tự Động (TTS):'}
             </h3>
             <AudioPlayerButton
               word={word.tu_tieng_ede || word.tu_tieng_viet}
@@ -192,11 +192,17 @@ export const WordDetailScreen: React.FC<WordDetailScreenProps> = ({
               )}
 
               {/* RÀNG BUỘC BẮT BUỘC: Ảnh tư liệu phải hiển thị kèm chú thích và nguồn ngay bên dưới */}
-              <div className="p-3.5 sm:p-4 bg-stone-100 border-t border-stone-200">
+              <div className="p-3.5 sm:p-4 bg-stone-100 border-t border-stone-200 space-y-1">
                 <div className="text-xs sm:text-sm font-medium text-stone-800">
                   <span className="font-semibold text-stone-900">Chú thích hình ảnh: </span>
                   {word.chu_thich_hinh_anh || `Hiện vật và không gian văn hóa gắn liền với từ "${word.tu_tieng_ede || word.tu_tieng_viet}".`}
                 </div>
+                {word.nguon_tu_lieu && (
+                  <div className="text-[11px] sm:text-xs text-stone-500">
+                    <span className="font-semibold text-stone-700">Nguồn tư liệu: </span>
+                    {word.nguon_tu_lieu}
+                  </div>
+                )}
               </div>
             </div>
           </div>
