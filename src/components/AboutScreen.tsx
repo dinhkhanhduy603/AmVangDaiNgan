@@ -4,10 +4,9 @@ import { GraduationCap, Heart, BookOpen } from 'lucide-react';
 export const AboutScreen: React.FC = () => {
   const edeAlphabet = [
     { char: 'č', ipa: '/tʃ/', desc: 'Tương đương âm "ch" trong tiếng Việt nhưng bật hơi nhẹ (VD: Čing - Cồng chiêng).' },
-    { char: 'ñ', ipa: '/ɲ/', desc: 'Tương đương âm "nh" trong tiếng Việt (VD: Ñu - Nó/Họ, Mñai - Dầu/Mỡ, Kñi - Vàng).' },
+    { char: 'ñ', ipa: '/ɲ/', desc: 'Tương đương âm "nh" trong tiếng Việt (VD: Ñu - Nó/Họ, mñak - Dầu/Mỡ, Kñi - Vàng).' },
     { char: 'ĭ / ŭ', ipa: '/i/ /u/', desc: 'Nguyên âm ngắn có dấu trăng trên đầu, phát âm dứt khoát.' },
     { char: 'ĕ / ŏ', ipa: '/e/ /o/', desc: 'Nguyên âm ngắn (VD: Prŏng - To/Lớn, Kŏ - Trắng, Hĕ - Phải không).' },
-    { char: 'dj', ipa: '/ɗʒ/', desc: 'Âm tắc - xát hữu thanh ngạc cứng đặc trưng ngôn ngữ Nam Đảo (Austronesian).' },
   ];
 
   return (
@@ -97,7 +96,7 @@ export const AboutScreen: React.FC = () => {
         </h2>
 
         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-          Chữ viết tiếng Ê-đê sử dụng hệ chữ cái La-tinh cải tiến kết hợp các ký tự đặc biệt thể hiện thanh điệu và trường độ nguyên âm:
+          Chữ viết tiếng Ê-đê sử dụng hệ chữ cái La-tinh cải tiến. Là ngôn ngữ không có thanh điệu (thuộc ngữ hệ Nam Đảo), các dấu phụ (˘, ˆ, ˇ, ˜...) chỉ dùng để phân biệt độ dài/ngắn, âm sắc nguyên âm và phụ âm:
         </p>
 
         <div className="space-y-2.5">
